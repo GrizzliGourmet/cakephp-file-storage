@@ -20,15 +20,15 @@
     "minimum-stability": "dev", 
     "require": {
         "php": ">=7.2.0",
-        "cakephp/cakephp": "4.x-dev as 4.0.0",
+        "cakephp/cakephp": "4.x",
         "cakephp/plugin-installer": "^1.0.0",
         "knplabs/gaufrette": "^0.7.0|^0.8.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
         "vlucas/phpdotenv": "^3.3",
-        "cakephp/cakephp-codesniffer": "dev-next",
-        "burzum/cakephp-imagine-plugin": "4.x-dev",
+        "cakephp/cakephp-codesniffer": "4.x",
+        "burzum/cakephp-imagine-plugin": "4.x",
         "league/flysystem": "^1.0.0",
         "aws/aws-sdk-php": "*"
     },
